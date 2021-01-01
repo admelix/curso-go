@@ -1,0 +1,3 @@
+el archivo de texto
+se esta leyendo 
+y, tiene varias lineas
